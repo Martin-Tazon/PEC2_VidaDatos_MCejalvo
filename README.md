@@ -14,5 +14,5 @@ Marc Cejalvo
 - Output del gráfico que se ve en el .pdf con las respuestas
 
 /data
-- Archivo .csv con la salida del scrapping.
+- Archivo .csv con la salida del scrapping:
   pccomponentes_catalogo.csv
