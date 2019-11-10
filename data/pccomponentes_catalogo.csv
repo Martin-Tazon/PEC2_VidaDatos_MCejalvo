@@ -1,0 +1,91 @@
+,Categoría,Marca,Nombre,Precio
+0,Smartphone/Móviles,Huawei,Huawei Mate 20 Lite 4/64GB Azul Libre,199
+1,Smartphone/Móviles,Realme,Realme X2 8/128GB Pearl Blue Libre,299
+2,Smartphone/Móviles,Realme,Realme 5 Pro 4/128GB Sparkling Blue Libre,199
+3,Smartphone/Móviles,Realme,Realme X2 8/128GB Pearl White Libre,299
+4,Smartphone/Móviles,Realme,Realme 5 Pro 4/128GB Crystal Green Libre,199
+5,Smartphone/Móviles,Huawei,Huawei Mate 20 Lite 4/64GB Negro Libre,199
+6,Smartphone/Móviles,Samsung,Samsung Galaxy A40 4/64GB Negro Libre,219
+7,Smartphone/Móviles,Cubot,Cubot King Kong 2GB/16GB Dual Sim Negro Libre,109
+8,Smartphone/Móviles,Huawei,Huawei P30 Lite 4/128GB Azul Libre,300.33
+9,Smartphone/Móviles,Apple,Apple iPhone 11 64GB Negro Libre,809
+10,Smartphone/Móviles,Huawei,Huawei P30 Lite 4/128GB Negro Libre,296.58
+11,Smartphone/Móviles,Realme,Realme X2 Pro 8/128GB Neptune Blue Libre,449
+12,Smartphone/Móviles,Samsung,Samsung Galaxy A50 4/128GB Negro Libre,289
+13,Smartphone/Móviles,Samsung,Samsung Galaxy M20 4/64GB Ocean Blue Libre,209
+14,Smartphone/Móviles,Apple,Apple iPhone 11 128GB (Product) Red Libre,859
+15,Smartphone/Móviles,Alcatel,Alcatel 1 2019 1/8GB Bluish Black Libre,49.01
+16,Smartphone/Móviles,Alcatel,Alcatel 1S 3/32GB Dual Sim Negro Libre,89
+17,Smartphone/Móviles,ZTE,ZTE Blade L8 16GB Negro Libre,59
+18,Smartphone/Móviles,Alcatel,Alcatel 1 2019 1/8GB Negro Volcán Libre,49.01
+19,Smartphone/Móviles,Huawei,Huawei Y5 2019 2/16GB Dual Sim Sapphire Blue Libre,99
+20,Smartphone/Móviles,Samsung,Samsung Galaxy A40 4/64GB Azul Libre,219
+21,Smartphone/Móviles,Samsung,Samsung Galaxy A10 2/32GB Negro Libre Versión Importada EU,154.1
+22,Smartphone/Móviles,Realme,Realme X2 Pro 8/128GB Lunar White Libre,449
+23,Portátiles,MSI,"MSI GF63 Thin 9SC-047XES Intel Corei7-9750H/16GB/512GB SSD/GTX 1650/15.6""",898
+24,Portátiles,Lenovo,"Lenovo Ideapad 330 Intel Core i7-8550U/8GB/256GB SSD/15.6""",535
+25,Portátiles,Asus,"Asus TUF Gaming FX504GD-EN1354 Intel Core i7-8750H/8GB/256GB SSD/GTX 1050/15.6""",699
+26,Portátiles,Lenovo,"Lenovo Ideapad 330-15IKB Intel Core i3-7020U/8GB/256GB SSD/15.6""",379
+27,Portátiles,Asus,"Asus TUF Gaming FX505GT-BQ024 Intel Core i7-9750H/16GB/1TB+256GB SSD/GTX 1650/15.6""",898
+28,Portátiles,Lenovo,"Lenovo Ideapad 330 Intel Core i7-8750H/16GB/1TB+256 SSD/GTX 1050/15.6""",898
+29,Portátiles,MSI,"MSI GF75 Thin 9SC-061XES Intel Core i7-9750H/16GB/1TB+512SSD/GTX1650/17.3""",1099.01
+30,Portátiles,MSI,"MSI GL75 9SEK-074XES Intel Core i7-9750H/16GB/1TB SSD/RTX 2060/17.3""",1399
+31,Portátiles,Lenovo,"Lenovo V130-15IKB Intel Core i5-7200U/8GB/256 GB SSD/15.6""",439
+32,Portátiles,Lenovo,"Lenovo Ideapad 330-15ICH Intel Core i7-8750H/8 GB/1TB/GTX1050/15.6""",699
+33,Portátiles,Asus,"Asus VivoBook S512DA-BR097 AMD Ryzen R5 3500U/8GB/256GB SSD/15.6""",549
+34,Portátiles,HP,"HP Pavilion 15-BC523NS Intel Core i5-9300H/16GB/512GB SSD/GTX 1050/15.6""",689
+35,Portátiles,HP,"HP Pavilion 15-BC416NS Intel Core i5-8300H/8GB/1TB+128GB SSD/GTX1050/15.6"" Negro",599
+36,Portátiles,HP,"HP NoteBook 15-DB0066NS AMD A4-9125/4GB/128GB SSD/15.6""",239
+37,Portátiles,HP,"HP 15-DW0033NS Intel Core i5-8265U/8GB/256GB SSD/15.6""",499
+38,Portátiles,Asus,"Asus R540MA-GQ757 Intel Celeron N4000/4GB/256GB SSD/15.6""",209
+39,Portátiles,MSI,"MSI GP75 Leopard 9SF-1037XES Intel Core i7-9750H/16GB/1TB SSD/RTX 2070/17.3""",1599
+40,Portátiles,MSI,"MSI Modern 14 A10M-600XES Intel Core I5-10210U/16GB/512GB SSD/14""",799
+41,Portátiles,Asus,"Asus R560UD-EJ387 Intel Core i5-8250U/8GB/1TB+256 SSD/GTX 1050/15.6""",749
+42,Portátiles,HP,"HP Pavilion 15-BC500NS Intel Core i5-9300H/8GB/1TB+128GB SSD/GTX 1050/15.6""",649
+43,Portátiles,Lenovo,"Lenovo Ideapad S145 AMD A6-9225/4GB/128GB SSD/15.6""",199
+44,Portátiles,Lenovo,"Lenovo Yoga 530-14ARR AMD Ryzen 5 2500U/8GB/256GB SSD/14"" Táctil",599
+45,Portátiles,HP,"HP 14-DK0014NS AMD Ryzen 3 3200U/8GB/256GB SSD/14""",399
+46,Portátiles,MSI,"MSI GF63 Thin 9SC-047XES Intel Corei7-9750H/16GB/512GB SSD/GTX 1650/15.6""",898
+47,Portátiles,Asus,"Asus TUF Gaming FX504GD-EN1354 Intel Core i7-8750H/8GB/256GB SSD/GTX 1050/15.6""",699
+48,Portátiles,Asus,"Asus TUF Gaming FX505GT-BQ024 Intel Core i7-9750H/16GB/1TB+256GB SSD/GTX 1650/15.6""",898
+49,Portátiles,Lenovo,"Lenovo Ideapad 330 Intel Core i7-8750H/16GB/1TB+256 SSD/GTX 1050/15.6""",898
+50,Portátiles,MSI,"MSI GF75 Thin 9SC-061XES Intel Core i7-9750H/16GB/1TB+512SSD/GTX1650/17.3""",1099.01
+51,Portátiles,MSI,"MSI GL75 9SEK-074XES Intel Core i7-9750H/16GB/1TB SSD/RTX 2060/17.3""",1399
+52,Portátiles,Lenovo,"Lenovo Ideapad 330-15ICH Intel Core i7-8750H/8 GB/1TB/GTX1050/15.6""",699
+53,Portátiles,HP,"HP Pavilion 15-BC523NS Intel Core i5-9300H/16GB/512GB SSD/GTX 1050/15.6""",689
+54,Portátiles,MSI,"MSI GP75 Leopard 9SF-1037XES Intel Core i7-9750H/16GB/1TB SSD/RTX 2070/17.3""",1599
+55,Portátiles,Asus,"Asus R560UD-EJ387 Intel Core i5-8250U/8GB/1TB+256 SSD/GTX 1050/15.6""",749
+56,Portátiles,HP,"HP Pavilion 15-BC500NS Intel Core i5-9300H/8GB/1TB+128GB SSD/GTX 1050/15.6""",649
+57,Portátiles,Asus,"Asus Rog Strix G531GV-AL172 Intel Core i7-9750H/16GB/1TB SSD/RTX2060/15.6""",1299
+58,Portátiles,MSI,"MSI GF75 Thin 9SC-039XES Intel Core i7-9750H/16GB/512SSD/GTX1650/17.3""",1199
+59,Portátiles,MSI,"MSI Prestige 15 A10SC-044XES Intel Core i7-10710U/16GB/512GB SSD/GTX 1650/15.6""",1499
+60,Portátiles,MSI,"MSI GF65 Thin 9SD-072XES Intel Core i7-9750H/16GB/512GB SSD/GTX 1660Ti/15.6""",1169
+61,Portátiles,MSI,"MSI GL65 9SEK-255XES Intel Core i7-9750H/32GB/1TB SSD/RTX 2060/15.6""",1699
+62,Portátiles,Lenovo,"Lenovo Ideapad 530S-14IKB Intel Core i5-8250U/8GB/256GB SSD/MX130/14""",699
+63,Portátiles,Asus,"Asus R560UD-EJ393 Intel Core i7-8550U/16GB/1TB+256 SSD/GTX 1050/15.6""",879
+64,Portátiles,HP,"HP Pavilion 15-BC450NS Intel Core i5-8300H/8GB/1TB+128GB SSD/GTX 1050/15.6""",649
+65,Portátiles,MSI,"MSI Alpha 15 A3DDK-001XES AMD Ryzen 7 3750H/16GB/512GB SSD/RX 5500M/15.6""",1399
+66,Portátiles,MSI,"MSI GS65 Stealth 9SD-1426XES Intel Core i7-9750H/16GB/512GB SSD/GTX 1660Ti/15.6""",1499
+67,Televisores,Samsung,"Samsung UE50NU7025 50"" LED UltraHD 4K",385
+68,Televisores,Philips,"Philips 32PFS5603 32"" LED FullHD Blanco",155
+69,Televisores,LG,"LG 43UK6300PLB 43"" LED UltraHD 4K",309
+70,Televisores,Samsung,"Samsung UE55NU7026 55"" LED UltraHD 4K ",439
+71,Televisores,LG,"LG 32LK6200PLA 32"" LED FullHD Blanca",239
+72,Televisores,Samsung,"Samsung UE50RU7172 50"" LED UltraHD 4K",409
+73,Televisores,LG,"LG 55UM7100PLB 55"" LED UltraHD 4K",459
+74,Televisores,Samsung,"Samsung UE50NU7092 50"" LED UltraHD 4K",379
+75,Televisores,LG,"LG 55UK6300PLB 55"" LED UltraHD 4K",419
+76,Televisores,Samsung,"Samsung UE43RU7172 43"" LED UltraHD 4K",368.99
+77,Televisores,Samsung,"Samsung 40NU7182 40"" LED UltraHD 4K",337.6
+78,Televisores,Silver,"Silver 495523 32"" LED HD",119
+79,Televisores,LG,"LG 32LK500BPLA 32"" LED HD Ready",158.99
+80,Televisores,Toshiba,"Toshiba 32L3863DG 32"" LED FullHD",199.9
+81,Televisores,LG,"LG 49UM7100PLB 49"" LED UltraHD 4K",399
+82,Televisores,Samsung,"Samsung UE55NU7093UXXH 55"" LED UltraHD 4K",429
+83,Televisores,LG,"LG 43UM7100PLB 43"" LED UltraHD 4K",358.99
+84,Televisores,LG,"LG 55UM7450PLA 55"" LED UltraHD 4K",538.99
+85,Televisores,Samsung,"Samsung UE65NU7025 65"" LED UltraHD 4K",659
+86,Televisores,Samsung,"Samsung UE43RU7105KXXC 43"" LED UltraHD 4K",379
+87,Televisores,LG,"LG 32LM6300PLA 32"" LED FullHD",269
+88,Televisores,Silver,"Silver 410983 43"" LED FullHD",199
+89,Televisores,LG,"LG 50UM7450PLA 50"" LED UltraHD 4K",448.99
