@@ -11,7 +11,7 @@ Marc Cejalvo
   scrap.py
   
 /figures
-- Output del gráfico que se ve en el .pdf con las respuestas
+- Output del gráfico que se ve en el .pdf con las respuestas. Enlace[https://www.dropbox.com/s/08gvbtenslxniuj/RespuestaPreguntas.pdf?dl=0] a las respuestas. 
 
 /data
 - Archivo .csv con la salida del scrapping:
